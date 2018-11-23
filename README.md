@@ -9,5 +9,5 @@ Revsii is an online platform that hosts fact-based insights from experts in diff
 
 # Find us Online
 [Revsii.org](http://www.revsii.org/) |
-[Twitter](http://www.revsii.org/) |
+[Twitter](https://twitter.com/Revsii_org) |
 [LinkedIn](https://www.linkedin.com/company/revsii)
